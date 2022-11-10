@@ -22,3 +22,5 @@ relatorio_final = lucro_vendedores.loc[:, "UNIDADES":"PREÇO"]
 relatorio_final.plot(kind='bar')
 
 plt.show()
+print("Apenas adicionando um comentário")
+print("verificação de projeto de dados")
