@@ -1,6 +1,6 @@
 # Automatização de relatórios (planilhas Excel)
 
-- Sistema utilizado para fazer a busca em de dados nas planilhas mesmo estando em planilhas separadas 
+- Sistema utlizado para fazer uma busca de dados. Permite que o usário faça uma busca dentro de uma planilha e realize a análise de dados 
 - Após a coleta de dados faz a soma e junta todas as informções em uma única planilha
 - Finaliza mostrando um gráfico de sua preferência
 
